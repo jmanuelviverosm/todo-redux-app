@@ -5,7 +5,7 @@ import { Todo } from './models/todo.model';
 export const estadoInicial: Todo[] = [
   new Todo('Salvar el mundo'),
   new Todo('Vencer a thanos'),
-  new Todo('Comprar yraje de Iroman'),
+  new Todo('Comprar traje de Iroman'),
   new Todo('Robar escudo del capitán america'),
 ];
 
